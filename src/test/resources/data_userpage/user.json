@@ -1,0 +1,92 @@
+[
+  {
+    "userID": "zUser1",
+    "password": "password1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "1234567890",
+    "email": "john.doe@example.com",
+    "description": "Description for zUser 1"
+  },
+  {
+    "userID": "zUser2",
+    "password": "password2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phone": "0987654321",
+    "email": "jane.smith@example.com",
+    "description": "Description for zUser 2"
+  },
+  {
+    "userID": "zUser3",
+    "password": "password3",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "phone": "5551234567",
+    "email": "alice.johnson@example.com",
+    "description": "Description for zUser 3"
+  },
+  {
+    "userID": "zUser4",
+    "password": "password4",
+    "firstName": "Bob",
+    "lastName": "Williams",
+    "phone": "4445678901",
+    "email": "bob.williams@example.com",
+    "description": "Description for zUser 4"
+  },
+  {
+    "userID": "zUser5",
+    "password": "password5",
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "phone": "3336789012",
+    "email": "charlie.brown@example.com",
+    "description": "Description for zUser 5"
+  },
+  {
+    "userID": "zUser6",
+    "password": "password6",
+    "firstName": "David",
+    "lastName": "Davis",
+    "phone": "2227890123",
+    "email": "david.davis@example.com",
+    "description": "Description for zUser 6"
+  },
+  {
+    "userID": "zUser7",
+    "password": "password7",
+    "firstName": "Eve",
+    "lastName": "Miller",
+    "phone": "1118901234",
+    "email": "eve.miller@example.com",
+    "description": "Description for zUser 7"
+  },
+  {
+    "userID": "zUser8",
+    "password": "password8",
+    "firstName": "Frank",
+    "lastName": "Wilson",
+    "phone": "9999012345",
+    "email": "frank.wilson@example.com",
+    "description": "Description for zUser 8"
+  },
+  {
+    "userID": "zUser9",
+    "password": "password9",
+    "firstName": "Grace",
+    "lastName": "Moore",
+    "phone": "8880123456",
+    "email": "grace.moore@example.com",
+    "description": "Description for zUser 9"
+  },
+  {
+    "userID": "zUser10",
+    "password": "password10",
+    "firstName": "Hank",
+    "lastName": "Taylor",
+    "phone": "7771234567",
+    "email": "hank.taylor@example.com",
+    "description": "Description for zUser 10"
+  }
+]

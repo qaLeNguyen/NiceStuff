@@ -1,0 +1,5 @@
+2024-09-04 13:59:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-09-04 13:59:11 INFO  WebDriverUtil:44 - WebDriver initialized: EDGE
+2024-09-04 13:59:15 INFO  LoginPage:33 - Login with Admin Credential successfully
